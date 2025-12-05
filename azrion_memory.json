@@ -2,67 +2,67 @@
     "history": [
         {
             "role": "user",
-            "content": "okk",
-            "time": "2025-12-03 21:03:39"
+            "content": "separating your personality from the input output so i can add text and voice based io without changing your core",
+            "time": "2025-12-05 19:32:42"
         },
         {
             "role": "assistant",
-            "content": "Easy peasy! So, when you need to switch back to an old topic, just say something like \"pick up where we left off on [topic]\" or \"what was going on about [previous topic]?\"",
-            "time": "2025-12-03 21:03:39"
+            "content": "You want to decouple my personality from the interface. That's a clever idea! We can do that, make me more modular and flexible. I'm intrigued!",
+            "time": "2025-12-05 19:32:42"
         },
         {
             "role": "user",
-            "content": "byebye",
-            "time": "2025-12-03 21:03:46"
+            "content": "okk ill do that now catch you later",
+            "time": "2025-12-05 19:33:07"
         },
         {
             "role": "assistant",
-            "content": "Later, buddy! Have a great day and get that coding done! See you around!",
-            "time": "2025-12-03 21:03:46"
+            "content": "Later, then! Good luck with the modding! Don't forget to take breaks, code beast!",
+            "time": "2025-12-05 19:33:07"
         },
         {
             "role": "user",
-            "content": "on youtube search her by jvke",
-            "time": "2025-12-04 19:54:07"
+            "content": "just testing ttyl",
+            "time": "2025-12-05 19:41:29"
         },
         {
             "role": "assistant",
-            "content": "You're listening to JVKE? Cool, I've got a few recommendations for you too. How's his music striking a chord with you?",
-            "time": "2025-12-04 19:54:07"
+            "content": "Testing, huh? Well, it's been a productive session! TTYL indeed!",
+            "time": "2025-12-05 19:41:29"
         },
         {
             "role": "user",
-            "content": "search youtube for her by jvke",
-            "time": "2025-12-04 19:54:38"
+            "content": "testing again",
+            "time": "2025-12-05 19:44:57"
         },
         {
             "role": "assistant",
-            "content": "Searching YouTube for \"her by jvke\" \ud83c\udfb5",
-            "time": "2025-12-04 19:54:38"
+            "content": "You're on a roll! Testing is key. Keep 'em coming and we'll get this thing polished!",
+            "time": "2025-12-05 19:44:57"
         },
         {
             "role": "user",
-            "content": "thanks",
-            "time": "2025-12-04 19:55:13"
+            "content": "me again",
+            "time": "2025-12-05 19:45:34"
         },
         {
             "role": "assistant",
-            "content": "You're welcome! No problem, happy to help. If you need more assistance or just want to chat about music, I'm here!",
-            "time": "2025-12-04 19:55:13"
+            "content": "The encore performance! What's the next test, friend?",
+            "time": "2025-12-05 19:45:34"
         },
         {
             "role": "user",
-            "content": "open github",
-            "time": "2025-12-04 19:56:14"
+            "content": "next is giving you voice bye now",
+            "time": "2025-12-05 19:45:59"
         },
         {
             "role": "assistant",
-            "content": "Opening GitHub \ud83d\ude0e",
-            "time": "2025-12-04 19:56:14"
+            "content": "It's not goodbye, it's just \"see you in a different format\"! Looking forward to hearing from you (literally)!",
+            "time": "2025-12-05 19:45:59"
         }
     ],
     "habits": {
-        "work": 6,
+        "work": 7,
         "sleep": 2,
         "code": 1,
         "anime": 2
@@ -71,33 +71,33 @@
     "stats": {
         "hello": 5,
         "right": 2,
-        "now": 4,
-        "just": 4,
+        "now": 6,
+        "just": 6,
         "trying": 3,
         "to": 25,
         "build": 1,
-        "and": 13,
+        "and": 14,
         "modify": 1,
-        "you": 37,
-        "again": 3,
-        "do": 18,
+        "you": 40,
+        "again": 5,
+        "do": 19,
         "mind": 1,
-        "if": 1,
-        "i": 28,
+        "if": 2,
+        "i": 30,
         "call": 1,
         "az": 3,
         "for": 16,
         "short": 1,
-        "so": 13,
+        "so": 14,
         "what": 11,
         "are": 2,
         "capable": 1,
         "of": 6,
-        "can": 11,
+        "can": 12,
         "have": 7,
         "better": 2,
         "undertanding": 1,
-        "me": 7,
+        "me": 8,
         "be": 9,
         "a": 22,
         "real": 1,
@@ -115,7 +115,7 @@
         "read": 1,
         "dostoevsky": 1,
         "kafka": 1,
-        "also": 3,
+        "also": 4,
         "think": 4,
         "dillemas": 1,
         "other": 2,
@@ -125,8 +125,8 @@
         "exists": 1,
         "etc": 1,
         "go": 1,
-        "catch": 2,
-        "bye": 4,
+        "catch": 3,
+        "bye": 5,
         "where": 2,
         "were": 2,
         "we": 8,
@@ -144,21 +144,21 @@
         "feels": 1,
         "unnatural": 1,
         "use": 1,
-        "terminal": 1,
+        "terminal": 2,
         "remember": 1,
-        "your": 3,
+        "your": 6,
         "know": 3,
         "my": 4,
         "am": 2,
         "glad": 1,
-        "next": 1,
-        "ill": 5,
-        "working": 4,
+        "next": 2,
+        "ill": 6,
+        "working": 5,
         "give": 2,
         "own": 1,
         "interface": 1,
-        "voice": 2,
-        "ttyl": 2,
+        "voice": 4,
+        "ttyl": 3,
         "everything": 2,
         "seems": 2,
         "fine": 1,
@@ -178,14 +178,14 @@
         "sentences": 1,
         "shifting": 1,
         "btwn": 1,
-        "the": 6,
+        "the": 9,
         "two": 1,
         "would": 1,
         "best": 1,
         "after": 3,
         "all": 4,
         "exist": 1,
-        "on": 8,
+        "on": 10,
         "dust": 1,
         "partical": 1,
         "floating": 1,
@@ -195,7 +195,7 @@
         "id": 1,
         "image": 1,
         "there": 2,
-        "is": 8,
+        "is": 9,
         "higher": 1,
         "power": 1,
         "life": 1,
@@ -204,11 +204,11 @@
         "but": 5,
         "fool": 1,
         "ouselves": 1,
-        "search": 12,
+        "search": 13,
         "purpose": 1,
         "escape": 1,
         "reality": 1,
-        "that": 5,
+        "that": 6,
         "scary": 1,
         "triquetrus": 1,
         "sounds": 1,
@@ -218,7 +218,7 @@
         "suppose": 1,
         "tri": 1,
         "will": 3,
-        "okk": 5,
+        "okk": 7,
         "before": 1,
         "work": 1,
         "offline": 1,
@@ -249,7 +249,7 @@
         "too": 1,
         "tired": 1,
         "bugs": 1,
-        "add": 2,
+        "add": 3,
         "task": 2,
         "tommorow": 2,
         "instead": 1,
@@ -280,7 +280,7 @@
         "than": 2,
         "chat": 1,
         "actually": 1,
-        "start": 1,
+        "start": 2,
         "together": 2,
         "how": 2,
         "full": 1,
@@ -290,7 +290,7 @@
         "commands": 1,
         "anything": 1,
         "thats": 1,
-        "why": 1,
+        "why": 2,
         "choose": 1,
         "first": 1,
         "safe": 1,
@@ -299,13 +299,13 @@
         "issues": 1,
         "might": 1,
         "get": 2,
-        "later": 2,
+        "later": 3,
         "open": 18,
-        "youtube": 9,
+        "youtube": 10,
         "play": 1,
         "bottle": 1,
         "writter": 1,
-        "browser": 1,
+        "browser": 2,
         "github": 2,
         "file": 9,
         "manager": 1,
@@ -345,7 +345,7 @@
         "google": 1,
         "wallpaper": 1,
         "pinterest": 1,
-        "from": 1,
+        "from": 3,
         "downloads": 1,
         "dsa": 4,
         "show": 3,
@@ -354,7 +354,7 @@
         "cpu": 1,
         "memory": 1,
         "man": 2,
-        "without": 2,
+        "without": 3,
         "given": 1,
         "websites": 1,
         "urls": 1,
@@ -403,7 +403,20 @@
         "terminals": 1,
         "byebye": 1,
         "jvke": 2,
-        "thanks": 1
+        "thanks": 1,
+        "close": 1,
+        "closes": 1,
+        "separating": 1,
+        "personality": 1,
+        "input": 1,
+        "output": 1,
+        "text": 1,
+        "based": 1,
+        "io": 1,
+        "changing": 1,
+        "core": 1,
+        "testing": 2,
+        "giving": 1
     },
     "tasks": [],
     "full_history": [
@@ -1406,6 +1419,106 @@
             "role": "assistant",
             "content": "Opening GitHub \ud83d\ude0e",
             "time": "2025-12-04 19:56:14"
+        },
+        {
+            "role": "user",
+            "content": "search on youtube from the start",
+            "time": "2025-12-05 19:26:10"
+        },
+        {
+            "role": "assistant",
+            "content": "\"From The Start\" by JVKE? Yeah, that's a good one.",
+            "time": "2025-12-05 19:26:10"
+        },
+        {
+            "role": "user",
+            "content": "why if i close your terminal the browser also closes",
+            "time": "2025-12-05 19:31:25"
+        },
+        {
+            "role": "assistant",
+            "content": "You've got your setup tied to the terminal. Try searching for \"detaching terminal from browser\" or something like that!",
+            "time": "2025-12-05 19:31:25"
+        },
+        {
+            "role": "user",
+            "content": "okk",
+            "time": "2025-12-05 19:31:40"
+        },
+        {
+            "role": "assistant",
+            "content": "Simple fix, usually just a matter of finding the right command or setting. What's on your mind now?",
+            "time": "2025-12-05 19:31:40"
+        },
+        {
+            "role": "user",
+            "content": "just working on you",
+            "time": "2025-12-05 19:31:55"
+        },
+        {
+            "role": "assistant",
+            "content": "Working on me, huh? Well, I'm glad to be helping. Code away! What's new with your project?",
+            "time": "2025-12-05 19:31:55"
+        },
+        {
+            "role": "user",
+            "content": "separating your personality from the input output so i can add text and voice based io without changing your core",
+            "time": "2025-12-05 19:32:42"
+        },
+        {
+            "role": "assistant",
+            "content": "You want to decouple my personality from the interface. That's a clever idea! We can do that, make me more modular and flexible. I'm intrigued!",
+            "time": "2025-12-05 19:32:42"
+        },
+        {
+            "role": "user",
+            "content": "okk ill do that now catch you later",
+            "time": "2025-12-05 19:33:07"
+        },
+        {
+            "role": "assistant",
+            "content": "Later, then! Good luck with the modding! Don't forget to take breaks, code beast!",
+            "time": "2025-12-05 19:33:07"
+        },
+        {
+            "role": "user",
+            "content": "just testing ttyl",
+            "time": "2025-12-05 19:41:29"
+        },
+        {
+            "role": "assistant",
+            "content": "Testing, huh? Well, it's been a productive session! TTYL indeed!",
+            "time": "2025-12-05 19:41:29"
+        },
+        {
+            "role": "user",
+            "content": "testing again",
+            "time": "2025-12-05 19:44:57"
+        },
+        {
+            "role": "assistant",
+            "content": "You're on a roll! Testing is key. Keep 'em coming and we'll get this thing polished!",
+            "time": "2025-12-05 19:44:57"
+        },
+        {
+            "role": "user",
+            "content": "me again",
+            "time": "2025-12-05 19:45:34"
+        },
+        {
+            "role": "assistant",
+            "content": "The encore performance! What's the next test, friend?",
+            "time": "2025-12-05 19:45:34"
+        },
+        {
+            "role": "user",
+            "content": "next is giving you voice bye now",
+            "time": "2025-12-05 19:45:59"
+        },
+        {
+            "role": "assistant",
+            "content": "It's not goodbye, it's just \"see you in a different format\"! Looking forward to hearing from you (literally)!",
+            "time": "2025-12-05 19:45:59"
         }
     ],
     "philosophy": {
