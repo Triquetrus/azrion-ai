@@ -1,15 +1,25 @@
+import os
+os.environ["VOSK_LOG_LEVEL"] = "0"
+
 import sys
 import queue
 import json
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
-from azrion import azrion_chat,say
+from azrion import azrion_chat,say,get_ai_greeting
 
 def main():
-    print("Azrion voice: mic test (speech -> text)")
-    print("Say something; Ctrl+C to stop.\n")
+    # Same greeting as text client
+    print("Hey Triquetrus!")
+    greeting = get_ai_greeting()
+    print(greeting)
+    # Speak both lines
+    say("Hey Triquetrus!")
+    say(greeting)
 
-    # Load Vosk model (relative path from project root)
+    print("\nAzrion voice is listening. Say something; Ctrl+C to stop.\n")
+
+    # Load Vosk model ...
     model = Model("models/en_us_small")
 
     samplerate = 16000  # Hz
@@ -37,15 +47,26 @@ def main():
                     text = json.loads(result).get("text", "").strip()
                 except Exception:
                     text = ""
-                if text:
-                     print(f"🎙 Heard: {text}")
-                     reply = azrion_chat(text)
-                     print(f"Azrion: {reply}")
-                     say(reply)
 
+                if text:
+                    print(f"🎙 Heard: {text}")
+                    lower = text.lower()
+
+                    # Voice-level exit keywords
+                    if lower in ["exit", "by" ,"bye", "goodbye", "quit"]:
+                        reply = "Bye! Talk to you later."
+                        print(f"Azrion: {reply}")
+                        say(reply)
+                        break  # leave the while loop
+
+                    reply = azrion_chat(text)
+                    print(f"Azrion: {reply}")
+                    say(reply)
             else:
-                # Optional: handle partial results if you want
+                # ignore partials for now
                 pass
+
+print("Azrion voice: session ended.") 
 
 if __name__ == "__main__":
     main()

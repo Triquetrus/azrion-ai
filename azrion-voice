@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd "$HOME/Azrion"
+source venv/bin/activate
+python azrion_speech.py
