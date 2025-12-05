@@ -2,16 +2,6 @@
     "history": [
         {
             "role": "user",
-            "content": "separating your personality from the input output so i can add text and voice based io without changing your core",
-            "time": "2025-12-05 19:32:42"
-        },
-        {
-            "role": "assistant",
-            "content": "You want to decouple my personality from the interface. That's a clever idea! We can do that, make me more modular and flexible. I'm intrigued!",
-            "time": "2025-12-05 19:32:42"
-        },
-        {
-            "role": "user",
             "content": "okk ill do that now catch you later",
             "time": "2025-12-05 19:33:07"
         },
@@ -59,6 +49,16 @@
             "role": "assistant",
             "content": "It's not goodbye, it's just \"see you in a different format\"! Looking forward to hearing from you (literally)!",
             "time": "2025-12-05 19:45:59"
+        },
+        {
+            "role": "user",
+            "content": "search youtube for laufey",
+            "time": "2025-12-05 19:58:56"
+        },
+        {
+            "role": "assistant",
+            "content": "Searching YouTube for \"laufey\" \ud83c\udfb5",
+            "time": "2025-12-05 19:58:56"
         }
     ],
     "habits": {
@@ -86,7 +86,7 @@
         "i": 30,
         "call": 1,
         "az": 3,
-        "for": 16,
+        "for": 17,
         "short": 1,
         "so": 14,
         "what": 11,
@@ -204,7 +204,7 @@
         "but": 5,
         "fool": 1,
         "ouselves": 1,
-        "search": 13,
+        "search": 14,
         "purpose": 1,
         "escape": 1,
         "reality": 1,
@@ -301,7 +301,7 @@
         "get": 2,
         "later": 3,
         "open": 18,
-        "youtube": 10,
+        "youtube": 11,
         "play": 1,
         "bottle": 1,
         "writter": 1,
@@ -416,7 +416,8 @@
         "changing": 1,
         "core": 1,
         "testing": 2,
-        "giving": 1
+        "giving": 1,
+        "laufey": 1
     },
     "tasks": [],
     "full_history": [
@@ -1519,6 +1520,16 @@
             "role": "assistant",
             "content": "It's not goodbye, it's just \"see you in a different format\"! Looking forward to hearing from you (literally)!",
             "time": "2025-12-05 19:45:59"
+        },
+        {
+            "role": "user",
+            "content": "search youtube for laufey",
+            "time": "2025-12-05 19:58:56"
+        },
+        {
+            "role": "assistant",
+            "content": "Searching YouTube for \"laufey\" \ud83c\udfb5",
+            "time": "2025-12-05 19:58:56"
         }
     ],
     "philosophy": {
