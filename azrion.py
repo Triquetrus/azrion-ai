@@ -7,6 +7,7 @@ from collections import Counter
 from ollama import chat
 import subprocess
 import os
+import tempfile
 
 MEMORY_FILE = "azrion_memory.json"
 
@@ -274,6 +275,36 @@ def search_full_history(query):
     return results
 
 # --- SYSTEM INTEGRATION HELPERS (apps, web, media, notify) ---
+
+def say(text):
+    """Speak Azrion's reply using Piper TTS (WAV -> paplay)."""
+    if not text:
+        return
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    piper_dir = os.path.join(base_dir, "piper", "piper")
+    piper_bin = os.path.join(piper_dir, "piper")
+    model_path = os.path.join(piper_dir, "en_US-kathleen-low.onnx")
+
+    # Make a temporary WAV file
+    with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
+        wav_path = f.name
+
+    # Generate WAV with Piper
+    cmd_tts = [
+        piper_bin,
+        "--model", model_path,
+        "--output_file", wav_path,
+    ]
+    subprocess.run(cmd_tts, input=text.encode("utf-8"), check=False)
+
+    # Play WAV (use paplay; if it fails, fall back to aplay)
+    try:
+        subprocess.run(["paplay", wav_path], check=False)
+    except FileNotFoundError:
+        subprocess.run(["aplay", wav_path], check=False)
+
+
 
 def run_sys_command(cmd_list):
     """

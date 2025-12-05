@@ -2,63 +2,63 @@
     "history": [
         {
             "role": "user",
-            "content": "okk ill do that now catch you later",
-            "time": "2025-12-05 19:33:07"
+            "content": "hello",
+            "time": "2025-12-05 21:10:19"
         },
         {
             "role": "assistant",
-            "content": "Later, then! Good luck with the modding! Don't forget to take breaks, code beast!",
-            "time": "2025-12-05 19:33:07"
+            "content": "Back at it again, huh?",
+            "time": "2025-12-05 21:10:19"
         },
         {
             "role": "user",
-            "content": "just testing ttyl",
-            "time": "2025-12-05 19:41:29"
+            "content": "yes",
+            "time": "2025-12-05 21:10:34"
         },
         {
             "role": "assistant",
-            "content": "Testing, huh? Well, it's been a productive session! TTYL indeed!",
-            "time": "2025-12-05 19:41:29"
+            "content": "Productive day ahead!",
+            "time": "2025-12-05 21:10:34"
         },
         {
             "role": "user",
-            "content": "testing again",
-            "time": "2025-12-05 19:44:57"
+            "content": "by",
+            "time": "2025-12-05 21:11:38"
         },
         {
             "role": "assistant",
-            "content": "You're on a roll! Testing is key. Keep 'em coming and we'll get this thing polished!",
-            "time": "2025-12-05 19:44:57"
+            "content": "Getting into a rhythm there...",
+            "time": "2025-12-05 21:11:38"
         },
         {
             "role": "user",
-            "content": "me again",
-            "time": "2025-12-05 19:45:34"
+            "content": "hi",
+            "time": "2025-12-05 21:35:42"
         },
         {
             "role": "assistant",
-            "content": "The encore performance! What's the next test, friend?",
-            "time": "2025-12-05 19:45:34"
+            "content": "What's up, buddy?",
+            "time": "2025-12-05 21:35:42"
         },
         {
             "role": "user",
-            "content": "next is giving you voice bye now",
-            "time": "2025-12-05 19:45:59"
+            "content": "testing",
+            "time": "2025-12-05 21:35:59"
         },
         {
             "role": "assistant",
-            "content": "It's not goodbye, it's just \"see you in a different format\"! Looking forward to hearing from you (literally)!",
-            "time": "2025-12-05 19:45:59"
+            "content": "You're testing my motivation, huh? Let's get that energy up!",
+            "time": "2025-12-05 21:35:59"
         },
         {
             "role": "user",
-            "content": "search youtube for laufey",
-            "time": "2025-12-05 19:58:56"
+            "content": "okay",
+            "time": "2025-12-05 21:36:15"
         },
         {
             "role": "assistant",
-            "content": "Searching YouTube for \"laufey\" \ud83c\udfb5",
-            "time": "2025-12-05 19:58:56"
+            "content": "That's the right attitude! Now, code or anime... your call.",
+            "time": "2025-12-05 21:36:15"
         }
     ],
     "habits": {
@@ -69,7 +69,7 @@
     },
     "preferences": {},
     "stats": {
-        "hello": 5,
+        "hello": 7,
         "right": 2,
         "now": 6,
         "just": 6,
@@ -78,9 +78,9 @@
         "build": 1,
         "and": 14,
         "modify": 1,
-        "you": 40,
+        "you": 42,
         "again": 5,
-        "do": 19,
+        "do": 21,
         "mind": 1,
         "if": 2,
         "i": 30,
@@ -93,7 +93,7 @@
         "are": 2,
         "capable": 1,
         "of": 6,
-        "can": 12,
+        "can": 13,
         "have": 7,
         "better": 2,
         "undertanding": 1,
@@ -169,7 +169,7 @@
         "talking": 3,
         "far": 1,
         "youve": 1,
-        "been": 1,
+        "been": 2,
         "quite": 1,
         "impressive": 1,
         "liitle": 1,
@@ -178,7 +178,7 @@
         "sentences": 1,
         "shifting": 1,
         "btwn": 1,
-        "the": 9,
+        "the": 10,
         "two": 1,
         "would": 1,
         "best": 1,
@@ -201,7 +201,7 @@
         "life": 1,
         "some": 3,
         "meaning": 1,
-        "but": 5,
+        "but": 6,
         "fool": 1,
         "ouselves": 1,
         "search": 14,
@@ -222,7 +222,7 @@
         "before": 1,
         "work": 1,
         "offline": 1,
-        "or": 4,
+        "or": 5,
         "need": 1,
         "continue": 1,
         "interner": 1,
@@ -266,7 +266,7 @@
         "tonight": 1,
         "sleeping": 1,
         "rn": 1,
-        "yes": 2,
+        "yes": 3,
         "p": 1,
         "morning": 1,
         "k": 1,
@@ -300,7 +300,7 @@
         "might": 1,
         "get": 2,
         "later": 3,
-        "open": 18,
+        "open": 21,
         "youtube": 11,
         "play": 1,
         "bottle": 1,
@@ -340,7 +340,7 @@
         "lofi": 1,
         "beats": 1,
         "her": 3,
-        "by": 3,
+        "by": 9,
         "jvek": 1,
         "google": 1,
         "wallpaper": 1,
@@ -376,7 +376,7 @@
         "was": 1,
         "gone": 1,
         "hrs": 1,
-        "did": 1,
+        "did": 2,
         "miss": 1,
         "this": 1,
         "wont": 1,
@@ -415,9 +415,18 @@
         "io": 1,
         "changing": 1,
         "core": 1,
-        "testing": 2,
+        "testing": 3,
         "giving": 1,
-        "laufey": 1
+        "laufey": 1,
+        "oh": 2,
+        "boy": 2,
+        "here": 1,
+        "he": 2,
+        "hi": 2,
+        "say": 1,
+        "goodbye": 1,
+        "lady": 1,
+        "okay": 1
     },
     "tasks": [],
     "full_history": [
@@ -1530,6 +1539,226 @@
             "role": "assistant",
             "content": "Searching YouTube for \"laufey\" \ud83c\udfb5",
             "time": "2025-12-05 19:58:56"
+        },
+        {
+            "role": "user",
+            "content": "open you do",
+            "time": "2025-12-05 20:16:50"
+        },
+        {
+            "role": "assistant",
+            "content": "You're opening doors... and anime shows, I presume?",
+            "time": "2025-12-05 20:16:50"
+        },
+        {
+            "role": "user",
+            "content": "or been can you do",
+            "time": "2025-12-05 20:16:58"
+        },
+        {
+            "role": "assistant",
+            "content": "Been there! Been coding too... 1 hour of code is not bad, right?",
+            "time": "2025-12-05 20:16:58"
+        },
+        {
+            "role": "user",
+            "content": "oh boy here",
+            "time": "2025-12-05 20:17:06"
+        },
+        {
+            "role": "assistant",
+            "content": "Whoa, who's that?",
+            "time": "2025-12-05 20:17:06"
+        },
+        {
+            "role": "user",
+            "content": "he did",
+            "time": "2025-12-05 20:17:26"
+        },
+        {
+            "role": "assistant",
+            "content": "You're getting dramatic! Want to talk about it?",
+            "time": "2025-12-05 20:17:26"
+        },
+        {
+            "role": "user",
+            "content": "hi",
+            "time": "2025-12-05 20:17:31"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi back! How's your day going so far?",
+            "time": "2025-12-05 20:17:31"
+        },
+        {
+            "role": "user",
+            "content": "hello",
+            "time": "2025-12-05 20:17:35"
+        },
+        {
+            "role": "assistant",
+            "content": "Evening vibes!",
+            "time": "2025-12-05 20:17:35"
+        },
+        {
+            "role": "user",
+            "content": "open he didn't",
+            "time": "2025-12-05 20:17:41"
+        },
+        {
+            "role": "assistant",
+            "content": "Curious, what's behind the closed doors?",
+            "time": "2025-12-05 20:17:41"
+        },
+        {
+            "role": "user",
+            "content": "open",
+            "time": "2025-12-05 20:17:50"
+        },
+        {
+            "role": "assistant",
+            "content": "Progress! Slow and steady, right?",
+            "time": "2025-12-05 20:17:50"
+        },
+        {
+            "role": "user",
+            "content": "oh boy",
+            "time": "2025-12-05 20:17:54"
+        },
+        {
+            "role": "assistant",
+            "content": "What'd I just do?",
+            "time": "2025-12-05 20:17:54"
+        },
+        {
+            "role": "user",
+            "content": "but say",
+            "time": "2025-12-05 20:17:58"
+        },
+        {
+            "role": "assistant",
+            "content": "You want me to spill the tea?",
+            "time": "2025-12-05 20:17:58"
+        },
+        {
+            "role": "user",
+            "content": "by",
+            "time": "2025-12-05 20:18:03"
+        },
+        {
+            "role": "assistant",
+            "content": "Getting closer...",
+            "time": "2025-12-05 20:18:03"
+        },
+        {
+            "role": "user",
+            "content": "by",
+            "time": "2025-12-05 20:18:07"
+        },
+        {
+            "role": "assistant",
+            "content": "Let's take a leap, then!",
+            "time": "2025-12-05 20:18:07"
+        },
+        {
+            "role": "user",
+            "content": "by",
+            "time": "2025-12-05 20:18:10"
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're trying to \"work\" on something. Did 7 hours already today?",
+            "time": "2025-12-05 20:18:10"
+        },
+        {
+            "role": "user",
+            "content": "goodbye",
+            "time": "2025-12-05 20:18:13"
+        },
+        {
+            "role": "assistant",
+            "content": "See ya later, champ!",
+            "time": "2025-12-05 20:18:13"
+        },
+        {
+            "role": "user",
+            "content": "the lady by",
+            "time": "2025-12-05 20:18:18"
+        },
+        {
+            "role": "assistant",
+            "content": "You mean the one in the anime I'm watching?",
+            "time": "2025-12-05 20:18:18"
+        },
+        {
+            "role": "user",
+            "content": "by",
+            "time": "2025-12-05 20:18:23"
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're getting into the habit of leaving clues...",
+            "time": "2025-12-05 20:18:23"
+        },
+        {
+            "role": "user",
+            "content": "hello",
+            "time": "2025-12-05 21:10:19"
+        },
+        {
+            "role": "assistant",
+            "content": "Back at it again, huh?",
+            "time": "2025-12-05 21:10:19"
+        },
+        {
+            "role": "user",
+            "content": "yes",
+            "time": "2025-12-05 21:10:34"
+        },
+        {
+            "role": "assistant",
+            "content": "Productive day ahead!",
+            "time": "2025-12-05 21:10:34"
+        },
+        {
+            "role": "user",
+            "content": "by",
+            "time": "2025-12-05 21:11:38"
+        },
+        {
+            "role": "assistant",
+            "content": "Getting into a rhythm there...",
+            "time": "2025-12-05 21:11:38"
+        },
+        {
+            "role": "user",
+            "content": "hi",
+            "time": "2025-12-05 21:35:42"
+        },
+        {
+            "role": "assistant",
+            "content": "What's up, buddy?",
+            "time": "2025-12-05 21:35:42"
+        },
+        {
+            "role": "user",
+            "content": "testing",
+            "time": "2025-12-05 21:35:59"
+        },
+        {
+            "role": "assistant",
+            "content": "You're testing my motivation, huh? Let's get that energy up!",
+            "time": "2025-12-05 21:35:59"
+        },
+        {
+            "role": "user",
+            "content": "okay",
+            "time": "2025-12-05 21:36:15"
+        },
+        {
+            "role": "assistant",
+            "content": "That's the right attitude! Now, code or anime... your call.",
+            "time": "2025-12-05 21:36:15"
         }
     ],
     "philosophy": {
