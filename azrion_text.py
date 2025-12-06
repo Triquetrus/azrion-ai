@@ -6,6 +6,7 @@ from azrion import (
     azrion_chat,
 )
 import time
+import subprocess
 
 # --- MAIN LOOP ---
 def main():
@@ -37,11 +38,11 @@ def main():
                 for r in results[:8]:
                     print(" -", r)
             continue
-
+        # exit text mode
         if user_input.lower() in ["exit", "bye"]:
             print("Azrion: Bye! Talk to you later 😉")
             break
-
+        
         # normal chat
         reply = azrion_chat(user_input)
         # azrion_chat already typed out the reply; still print indicator if needed

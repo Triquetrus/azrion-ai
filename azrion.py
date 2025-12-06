@@ -8,6 +8,7 @@ from ollama import chat
 import subprocess
 import os
 import tempfile
+import re
 
 MEMORY_FILE = "azrion_memory.json"
 
@@ -274,12 +275,41 @@ def search_full_history(query):
             results.append(f"[{entry.get('time','?')}] {preview}")
     return results
 
-# --- SYSTEM INTEGRATION HELPERS (apps, web, media, notify) ---
+def _prepare_tts_text(text: str) -> str:
+    """
+    Clean LLM text for speaking:
+    - remove most emojis and symbols
+    - collapse repeated punctuation
+    """
+    if not text:
+        return ""
+
+     # Remove most non-ASCII characters (this kills emojis)
+    text = text.encode("ascii", errors="ignore").decode("ascii")
+
+    # Remove most non-word symbols (keeps basic punctuation)
+    text = re.sub(r"[^\w\s.,!?'\-]", "", text)
+
+    # Collapse multiple ! or ? to a single one
+    text = re.sub(r"[!]{2,}", "!", text)
+    text = re.sub(r"[?]{2,}", "?", text)
+
+    # Optional: trim extra spaces
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
 
 def say(text):
     """Speak Azrion's reply using Piper TTS (WAV -> paplay)."""
     if not text:
         return
+
+    clean = _prepare_tts_text(text)
+    if not clean:
+        return
+
+    #print(f"[TTS INPUT] {clean!r}")  # DEBUG: what we send to Piper
 
     base_dir = os.path.dirname(os.path.abspath(__file__))
     piper_dir = os.path.join(base_dir, "piper", "piper")
@@ -296,8 +326,13 @@ def say(text):
         "--model", model_path,
         "--output_file", wav_path,
     ]
-    subprocess.run(cmd_tts, input=text.encode("utf-8"), check=False)
-
+    subprocess.run(
+       cmd_tts,
+       input=clean.encode("utf-8"),
+       check=False,
+       stdout=subprocess.DEVNULL,
+       stderr=subprocess.DEVNULL,
+    )
     # Play WAV (use paplay; if it fails, fall back to aplay)
     try:
         subprocess.run(["paplay", wav_path], check=False)
@@ -596,6 +631,8 @@ def system_action(user_input):
 
 # --- CHAT FUNCTION (updated: short-term memory + archive + typing)
 def azrion_chat(user_input):
+
+     
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Store messages in both short-term 'history' and full archive 'full_history'

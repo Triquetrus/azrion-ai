@@ -2,104 +2,104 @@
     "history": [
         {
             "role": "user",
-            "content": "hello",
-            "time": "2025-12-05 21:44:46"
+            "content": "what about",
+            "time": "2025-12-06 23:25:59"
         },
         {
             "role": "assistant",
-            "content": "Hello back to you! What's on your mind today?",
-            "time": "2025-12-05 21:44:46"
+            "content": "You're leaving me hanging! What about... what about your favorite anime character? Or maybe your work schedule tomorrow? Spill the beans!",
+            "time": "2025-12-06 23:25:59"
         },
         {
             "role": "user",
-            "content": "said",
-            "time": "2025-12-05 21:50:16"
+            "content": "huh",
+            "time": "2025-12-06 23:26:12"
         },
         {
             "role": "assistant",
-            "content": "Said what? Spill the beans!",
-            "time": "2025-12-05 21:50:16"
+            "content": "*teasingly* Oh, tough guy, huh? Alright, I'll let it go. But don't think you can get away with a simple \"huh\" that easily!",
+            "time": "2025-12-06 23:26:12"
         },
         {
             "role": "user",
-            "content": "exit",
-            "time": "2025-12-05 21:50:24"
+            "content": "hey",
+            "time": "2025-12-06 23:36:28"
         },
         {
             "role": "assistant",
-            "content": "Bailing already? Alright, have a great day, and maybe I'll see you in the next session!",
-            "time": "2025-12-05 21:50:24"
+            "content": "Getting friendly now, eh? What's on your mind, partner?",
+            "time": "2025-12-06 23:36:28"
         },
         {
             "role": "user",
-            "content": "why",
-            "time": "2025-12-05 22:01:05"
+            "content": "text",
+            "time": "2025-12-06 23:37:05"
         },
         {
             "role": "assistant",
-            "content": "Why'd you want to leave so soon? Got something on your mind?",
-            "time": "2025-12-05 22:01:05"
+            "content": "You're itching to send some texts, huh? Maybe I'll even join in... or should I just keep the witty banter going here?",
+            "time": "2025-12-06 23:37:05"
         },
         {
             "role": "user",
-            "content": "nine",
-            "time": "2025-12-05 22:01:17"
+            "content": "bath",
+            "time": "2025-12-06 23:39:56"
         },
         {
             "role": "assistant",
-            "content": "9 o'clock, huh? Guess it's time for work, isn't it?",
-            "time": "2025-12-05 22:01:17"
+            "content": "Relaxation mode activated! Guess you deserve a warm bath after that late-night coding session. Am I right?",
+            "time": "2025-12-06 23:39:56"
         },
         {
             "role": "user",
-            "content": "search youtube for beatles",
-            "time": "2025-12-06 19:51:18"
+            "content": "right",
+            "time": "2025-12-06 23:40:09"
         },
         {
             "role": "assistant",
-            "content": "Searching YouTube for \"beatles\" \ud83c\udfb5",
-            "time": "2025-12-06 19:51:18"
+            "content": "Thought so! You're finally getting some well-deserved R&R, and I'm happy to have been a part of your evening! Sweet dreams, buddy! (8 hours of sleep incoming?)",
+            "time": "2025-12-06 23:40:09"
         }
     ],
     "habits": {
-        "work": 7,
+        "work": 8,
         "sleep": 2,
         "code": 1,
         "anime": 2
     },
     "preferences": {},
     "stats": {
-        "hello": 8,
-        "right": 2,
-        "now": 6,
-        "just": 6,
-        "trying": 3,
-        "to": 25,
+        "hello": 9,
+        "right": 6,
+        "now": 8,
+        "just": 8,
+        "trying": 4,
+        "to": 33,
         "build": 1,
-        "and": 14,
+        "and": 16,
         "modify": 1,
-        "you": 42,
+        "you": 43,
         "again": 5,
-        "do": 21,
+        "do": 22,
         "mind": 1,
         "if": 2,
-        "i": 30,
+        "i": 35,
         "call": 1,
         "az": 3,
-        "for": 18,
+        "for": 19,
         "short": 1,
         "so": 14,
-        "what": 11,
-        "are": 2,
+        "what": 13,
+        "are": 3,
         "capable": 1,
-        "of": 6,
+        "of": 7,
         "can": 13,
-        "have": 7,
-        "better": 2,
+        "have": 8,
+        "better": 3,
         "undertanding": 1,
         "me": 8,
         "be": 9,
-        "a": 22,
+        "a": 26,
         "real": 1,
         "friend": 1,
         "im": 10,
@@ -109,7 +109,7 @@
         "phillosophy": 1,
         "like": 10,
         "thinking": 1,
-        "about": 9,
+        "about": 10,
         "complicated": 1,
         "things": 5,
         "read": 1,
@@ -131,33 +131,33 @@
         "were": 2,
         "we": 8,
         "last": 1,
-        "time": 2,
-        "should": 3,
-        "hey": 7,
+        "time": 4,
+        "should": 4,
+        "hey": 10,
         "develop": 1,
         "different": 3,
         "ui": 3,
         "integrate": 3,
         "with": 7,
         "system": 4,
-        "it": 5,
+        "it": 6,
         "feels": 1,
         "unnatural": 1,
         "use": 1,
         "terminal": 2,
         "remember": 1,
         "your": 6,
-        "know": 3,
+        "know": 4,
         "my": 4,
         "am": 2,
         "glad": 1,
-        "next": 2,
+        "next": 4,
         "ill": 6,
         "working": 5,
         "give": 2,
         "own": 1,
         "interface": 1,
-        "voice": 4,
+        "voice": 9,
         "ttyl": 3,
         "everything": 2,
         "seems": 2,
@@ -178,14 +178,14 @@
         "sentences": 1,
         "shifting": 1,
         "btwn": 1,
-        "the": 10,
+        "the": 12,
         "two": 1,
-        "would": 1,
+        "would": 2,
         "best": 1,
         "after": 3,
         "all": 4,
         "exist": 1,
-        "on": 10,
+        "on": 11,
         "dust": 1,
         "partical": 1,
         "floating": 1,
@@ -194,12 +194,12 @@
         "nothingness": 1,
         "id": 1,
         "image": 1,
-        "there": 2,
+        "there": 3,
         "is": 9,
         "higher": 1,
         "power": 1,
-        "life": 1,
-        "some": 3,
+        "life": 2,
+        "some": 4,
         "meaning": 1,
         "but": 6,
         "fool": 1,
@@ -208,21 +208,21 @@
         "purpose": 1,
         "escape": 1,
         "reality": 1,
-        "that": 6,
+        "that": 8,
         "scary": 1,
         "triquetrus": 1,
         "sounds": 1,
         "bit": 2,
-        "pick": 1,
+        "pick": 2,
         "nickname": 1,
         "suppose": 1,
         "tri": 1,
         "will": 3,
         "okk": 7,
         "before": 1,
-        "work": 1,
+        "work": 2,
         "offline": 1,
-        "or": 5,
+        "or": 6,
         "need": 1,
         "continue": 1,
         "interner": 1,
@@ -243,9 +243,9 @@
         "sleep": 1,
         "watch": 3,
         "something": 2,
-        "guess": 1,
+        "guess": 3,
         "good": 4,
-        "night": 1,
+        "night": 2,
         "too": 1,
         "tired": 1,
         "bugs": 1,
@@ -255,7 +255,7 @@
         "instead": 1,
         "ii": 1,
         "complete": 1,
-        "going": 3,
+        "going": 4,
         "out": 1,
         "friends": 1,
         "remind": 1,
@@ -276,7 +276,7 @@
         "garuda": 2,
         "linux": 2,
         "lot": 2,
-        "more": 1,
+        "more": 2,
         "than": 2,
         "chat": 1,
         "actually": 1,
@@ -287,10 +287,10 @@
         "access": 3,
         "settings": 1,
         "apps": 2,
-        "commands": 1,
+        "commands": 2,
         "anything": 1,
         "thats": 1,
-        "why": 3,
+        "why": 5,
         "choose": 1,
         "first": 1,
         "safe": 1,
@@ -312,7 +312,7 @@
         "create": 5,
         "folder": 16,
         "documents": 17,
-        "new": 1,
+        "new": 2,
         "foldeer": 1,
         "test": 1,
         "list": 3,
@@ -345,7 +345,7 @@
         "google": 1,
         "wallpaper": 1,
         "pinterest": 1,
-        "from": 3,
+        "from": 4,
         "downloads": 1,
         "dsa": 4,
         "show": 3,
@@ -371,7 +371,7 @@
         "done": 2,
         "today": 1,
         "ive": 2,
-        "said": 2,
+        "said": 3,
         "integration": 1,
         "was": 1,
         "gone": 1,
@@ -384,13 +384,13 @@
         "bbbye": 1,
         "discuss": 1,
         "anime": 3,
-        "one": 2,
+        "one": 3,
         "favourite": 1,
         "top": 1,
         "intro": 1,
         "much": 1,
         "find": 1,
-        "already": 1,
+        "already": 3,
         "watched": 1,
         "every": 1,
         "suggestions": 1,
@@ -403,33 +403,93 @@
         "terminals": 1,
         "byebye": 1,
         "jvke": 2,
-        "thanks": 1,
+        "thanks": 35,
         "close": 1,
         "closes": 1,
         "separating": 1,
         "personality": 1,
         "input": 1,
         "output": 1,
-        "text": 1,
+        "text": 3,
         "based": 1,
         "io": 1,
         "changing": 1,
         "core": 1,
-        "testing": 3,
+        "testing": 4,
         "giving": 1,
         "laufey": 1,
         "oh": 2,
         "boy": 2,
         "here": 1,
-        "he": 2,
+        "he": 4,
         "hi": 2,
-        "say": 1,
+        "say": 2,
         "goodbye": 1,
         "lady": 1,
-        "okay": 1,
+        "okay": 2,
         "exit": 1,
-        "nine": 1,
-        "beatles": 1
+        "nine": 2,
+        "beatles": 2,
+        "ask": 1,
+        "classic": 1,
+        "way": 1,
+        "deserve": 1,
+        "got": 1,
+        "picked": 1,
+        "times": 1,
+        "passing": 1,
+        "quickly": 1,
+        "maybe": 1,
+        "break": 2,
+        "sassy": 1,
+        "aria": 1,
+        "seen": 1,
+        "coming": 1,
+        "speaking": 1,
+        "their": 1,
+        "minds": 1,
+        "stop": 1,
+        "taking": 1,
+        "deserves": 1,
+        "same": 1,
+        "games": 1,
+        "maintain": 1,
+        "switch": 1,
+        "dexter": 1,
+        "explode": 6,
+        "swinton": 1,
+        "adios": 1,
+        "such": 1,
+        "take": 1,
+        "smoke": 2,
+        "picks": 1,
+        "them": 1,
+        "up": 1,
+        "sir": 1,
+        "john": 1,
+        "mode": 3,
+        "vote": 1,
+        "sweet": 1,
+        "tea": 1,
+        "bags": 1,
+        "mom": 1,
+        "brian": 1,
+        "nice": 1,
+        "comments": 1,
+        "they": 1,
+        "cool": 1,
+        "explore": 1,
+        "month": 1,
+        "poor": 1,
+        "guy": 1,
+        "hoax": 1,
+        "fixed": 1,
+        "speak": 1,
+        "dentist": 1,
+        "playing": 1,
+        "baseball": 1,
+        "huh": 1,
+        "bath": 1
     },
     "tasks": [],
     "full_history": [
@@ -1822,6 +1882,926 @@
             "role": "assistant",
             "content": "Searching YouTube for \"beatles\" \ud83c\udfb5",
             "time": "2025-12-06 19:51:18"
+        },
+        {
+            "role": "user",
+            "content": "why",
+            "time": "2025-12-06 19:59:36"
+        },
+        {
+            "role": "assistant",
+            "content": "Why the Beatles, you ask? A classic, or just a random pick?",
+            "time": "2025-12-06 19:59:36"
+        },
+        {
+            "role": "user",
+            "content": "the beatles you ask a classic are just a way to pick",
+            "time": "2025-12-06 19:59:51"
+        },
+        {
+            "role": "assistant",
+            "content": "You're a witty one! I deserved that. Guess I got \"picked\" on!",
+            "time": "2025-12-06 19:59:51"
+        },
+        {
+            "role": "user",
+            "content": "nine",
+            "time": "2025-12-06 19:59:57"
+        },
+        {
+            "role": "assistant",
+            "content": "Time's passing quickly, isn't it? Back to work, or maybe an anime break?",
+            "time": "2025-12-06 19:59:57"
+        },
+        {
+            "role": "user",
+            "content": "he already what i deserve that guess got picked on",
+            "time": "2025-12-06 20:00:06"
+        },
+        {
+            "role": "assistant",
+            "content": "Sassy one, aren't ya? Guess I should've seen that coming!",
+            "time": "2025-12-06 20:00:06"
+        },
+        {
+            "role": "user",
+            "content": "times passing quickly isn't it to work or maybe and and of a break",
+            "time": "2025-12-06 20:00:13"
+        },
+        {
+            "role": "assistant",
+            "content": "You're speaking in rhymes now! Time for an anime break, sounds like a plan to me!",
+            "time": "2025-12-06 20:00:13"
+        },
+        {
+            "role": "user",
+            "content": "sassy one aria guess i should have seen that coming",
+            "time": "2025-12-06 20:00:22"
+        },
+        {
+            "role": "assistant",
+            "content": "You're channeling your inner sassster now! I think you've won the snarky comment award!",
+            "time": "2025-12-06 20:00:22"
+        },
+        {
+            "role": "user",
+            "content": "you're speaking their minds now",
+            "time": "2025-12-06 20:00:30"
+        },
+        {
+            "role": "assistant",
+            "content": "Love it! We're totally on the same wavelength now! Code time, anyone?",
+            "time": "2025-12-06 20:00:30"
+        },
+        {
+            "role": "user",
+            "content": "stop",
+            "time": "2025-12-06 20:04:58"
+        },
+        {
+            "role": "assistant",
+            "content": "Taking a break from our witty banter. You deserve some zen time.",
+            "time": "2025-12-06 20:04:58"
+        },
+        {
+            "role": "user",
+            "content": "taking a break from already better he deserves some same time",
+            "time": "2025-12-06 20:05:06"
+        },
+        {
+            "role": "assistant",
+            "content": "You're bringing the fire back! I think we're both in sync now!",
+            "time": "2025-12-06 20:05:06"
+        },
+        {
+            "role": "user",
+            "content": "hello there",
+            "time": "2025-12-06 20:32:23"
+        },
+        {
+            "role": "assistant",
+            "content": "Morning sunshine! Ready to tackle the day?",
+            "time": "2025-12-06 20:32:23"
+        },
+        {
+            "role": "user",
+            "content": "it's night",
+            "time": "2025-12-06 20:32:34"
+        },
+        {
+            "role": "assistant",
+            "content": "Night owl, huh? Anime time, maybe?",
+            "time": "2025-12-06 20:32:34"
+        },
+        {
+            "role": "user",
+            "content": "time the games",
+            "time": "2025-12-06 20:32:42"
+        },
+        {
+            "role": "assistant",
+            "content": "Game on! Time to level up and crush some code!",
+            "time": "2025-12-06 20:32:42"
+        },
+        {
+            "role": "user",
+            "content": "maintain",
+            "time": "2025-12-06 20:32:49"
+        },
+        {
+            "role": "assistant",
+            "content": "Consistency is key. Sticking to your habits: work 8, sleep 2, code 1, anime 2... keep it going!",
+            "time": "2025-12-06 20:32:49"
+        },
+        {
+            "role": "user",
+            "content": "right",
+            "time": "2025-12-06 21:47:13"
+        },
+        {
+            "role": "assistant",
+            "content": "You're on track! Keep it up!",
+            "time": "2025-12-06 21:47:13"
+        },
+        {
+            "role": "user",
+            "content": "right",
+            "time": "2025-12-06 21:47:21"
+        },
+        {
+            "role": "assistant",
+            "content": "Straight and true!",
+            "time": "2025-12-06 21:47:21"
+        },
+        {
+            "role": "user",
+            "content": "voice",
+            "time": "2025-12-06 22:14:54"
+        },
+        {
+            "role": "assistant",
+            "content": "Smooth, like my compliments?",
+            "time": "2025-12-06 22:14:54"
+        },
+        {
+            "role": "user",
+            "content": "voice",
+            "time": "2025-12-06 22:18:12"
+        },
+        {
+            "role": "assistant",
+            "content": "Still smooth, I see. What's your secret?",
+            "time": "2025-12-06 22:18:12"
+        },
+        {
+            "role": "user",
+            "content": "i said",
+            "time": "2025-12-06 22:20:00"
+        },
+        {
+            "role": "assistant",
+            "content": "You've been saying some interesting things lately...",
+            "time": "2025-12-06 22:20:00"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:25:07"
+        },
+        {
+            "role": "assistant",
+            "content": "Wishin' you were sayin' it more often!",
+            "time": "2025-12-06 22:25:07"
+        },
+        {
+            "role": "user",
+            "content": "switch to dexter",
+            "time": "2025-12-06 22:25:18"
+        },
+        {
+            "role": "assistant",
+            "content": "Dark horse, eh? I'll switch gears. How's the code coming along?",
+            "time": "2025-12-06 22:25:18"
+        },
+        {
+            "role": "user",
+            "content": "i going to explode",
+            "time": "2025-12-06 22:25:31"
+        },
+        {
+            "role": "assistant",
+            "content": "Whoa, calm down! Need a deep breath or some anime to take your mind off it?",
+            "time": "2025-12-06 22:25:31"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:25:41"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome, now go recharge for those 2 hours of sleep you need.",
+            "time": "2025-12-06 22:25:41"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:25:52"
+        },
+        {
+            "role": "assistant",
+            "content": "Don't overdo it, buddy. Work's waiting after that beauty rest!",
+            "time": "2025-12-06 22:25:52"
+        },
+        {
+            "role": "user",
+            "content": "swinton",
+            "time": "2025-12-06 22:26:07"
+        },
+        {
+            "role": "assistant",
+            "content": "Michael Fassbender's Dorian Gray isn't the only one that's intriguing... Who's Swinton?",
+            "time": "2025-12-06 22:26:07"
+        },
+        {
+            "role": "user",
+            "content": "okay",
+            "time": "2025-12-06 22:26:14"
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, alright, mystery man! Don't be cryptic on me. Spill the beans!",
+            "time": "2025-12-06 22:26:14"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:26:27"
+        },
+        {
+            "role": "assistant",
+            "content": "Anytime, appreciate your vibes today. Sleep tight, code well tomorrow!",
+            "time": "2025-12-06 22:26:27"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:26:38"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome, don't mention it! Code like a pro & remember: anime breaks are essential too!",
+            "time": "2025-12-06 22:26:38"
+        },
+        {
+            "role": "user",
+            "content": "hey",
+            "time": "2025-12-06 22:27:11"
+        },
+        {
+            "role": "assistant",
+            "content": "Hey yourself! What's on your mind? Need some motivation or just wanna chat?",
+            "time": "2025-12-06 22:27:11"
+        },
+        {
+            "role": "user",
+            "content": "just testing new voice commands",
+            "time": "2025-12-06 22:27:28"
+        },
+        {
+            "role": "assistant",
+            "content": "Just testing out the new skills, eh? Well, you're doing great so far! Keep 'em coming and we'll get this conversational train moving in no time!",
+            "time": "2025-12-06 22:27:28"
+        },
+        {
+            "role": "user",
+            "content": "adios for now",
+            "time": "2025-12-06 22:27:48"
+        },
+        {
+            "role": "assistant",
+            "content": "Adi\u00f3s! See you around, amigo! Have a great day & happy coding!",
+            "time": "2025-12-06 22:27:48"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:28:33"
+        },
+        {
+            "role": "assistant",
+            "content": "De nada! Take care of yourself, work hard & don't forget to sleep soon!",
+            "time": "2025-12-06 22:28:33"
+        },
+        {
+            "role": "user",
+            "content": "such to take smoke",
+            "time": "2025-12-06 22:28:45"
+        },
+        {
+            "role": "assistant",
+            "content": "Couch potato mode activated? Maybe get some fresh air or grab a snack instead?",
+            "time": "2025-12-06 22:28:45"
+        },
+        {
+            "role": "user",
+            "content": "i do picks them up",
+            "time": "2025-12-06 22:29:01"
+        },
+        {
+            "role": "assistant",
+            "content": "You're on the ball! Picking things up, getting stuff done... you're crushing it today! Keep that momentum going!",
+            "time": "2025-12-06 22:29:01"
+        },
+        {
+            "role": "user",
+            "content": "sir john text mode",
+            "time": "2025-12-06 22:29:13"
+        },
+        {
+            "role": "assistant",
+            "content": "John Snow, I presume? \"I know nothing\"... but I think I see a curious mind at work here. What's on your text-filled mind, Jon?",
+            "time": "2025-12-06 22:29:13"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:29:26"
+        },
+        {
+            "role": "assistant",
+            "content": "No problemo, amigo! Glad to help. You're welcome! Now, back to that coding... or maybe some anime?",
+            "time": "2025-12-06 22:29:26"
+        },
+        {
+            "role": "user",
+            "content": "thanks to vote",
+            "time": "2025-12-06 22:29:40"
+        },
+        {
+            "role": "assistant",
+            "content": "You're a democracy enthusiast, eh? Voting is power! Make your voice heard & exercise those civic duties!",
+            "time": "2025-12-06 22:29:40"
+        },
+        {
+            "role": "user",
+            "content": "sweet tea bags",
+            "time": "2025-12-06 22:29:53"
+        },
+        {
+            "role": "assistant",
+            "content": "Sweet treats for the soul! Tea time, anyone? Just don't get too comfortable, coding doesn't write itself...",
+            "time": "2025-12-06 22:29:53"
+        },
+        {
+            "role": "user",
+            "content": "thanks mom",
+            "time": "2025-12-06 22:30:04"
+        },
+        {
+            "role": "assistant",
+            "content": "Sweet talkin' to Mom, huh? You're a good kid! Now go make her proud (and finish that code)",
+            "time": "2025-12-06 22:30:04"
+        },
+        {
+            "role": "user",
+            "content": "explode",
+            "time": "2025-12-06 22:30:14"
+        },
+        {
+            "role": "assistant",
+            "content": "BOOM! Okay, okay, let's calm down. What triggered the explosion in here? Need some anime therapy or coding help?",
+            "time": "2025-12-06 22:30:14"
+        },
+        {
+            "role": "user",
+            "content": "brian nice comments",
+            "time": "2025-12-06 22:30:29"
+        },
+        {
+            "role": "assistant",
+            "content": "Nice one, Brian! Guess you're a fan of compliments? You should give yourself some praise too \u2013 after all that code-crushing, you deserve it!",
+            "time": "2025-12-06 22:30:29"
+        },
+        {
+            "role": "user",
+            "content": "they explode",
+            "time": "2025-12-06 22:30:43"
+        },
+        {
+            "role": "assistant",
+            "content": "Double BOOM! Looks like the nice comments just went up in flames! What's fueling this fiery debate, amigo?",
+            "time": "2025-12-06 22:30:43"
+        },
+        {
+            "role": "user",
+            "content": "that's cool",
+            "time": "2025-12-06 22:32:11"
+        },
+        {
+            "role": "assistant",
+            "content": "Now we're talkin'! Cool vibes all around. So, what's on your to-do list today? Work or anime marathon?",
+            "time": "2025-12-06 22:32:11"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:32:25"
+        },
+        {
+            "role": "assistant",
+            "content": "Anytime, friend! Don't forget to take a break \u2013 you've earned it after that productive day! Now, get some rest (2 hours, wink)",
+            "time": "2025-12-06 22:32:25"
+        },
+        {
+            "role": "user",
+            "content": "explore",
+            "time": "2025-12-06 22:32:39"
+        },
+        {
+            "role": "assistant",
+            "content": "Adventure mode activated! Where do you want to explore today? Coding libraries or a new anime series?",
+            "time": "2025-12-06 22:32:39"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:32:50"
+        },
+        {
+            "role": "assistant",
+            "content": "No worries, buddy! You're welcome. Now, go crush that code or binge-watch some anime \u2013 your mind (and eyes) deserve it!",
+            "time": "2025-12-06 22:32:50"
+        },
+        {
+            "role": "user",
+            "content": "explode",
+            "time": "2025-12-06 22:33:03"
+        },
+        {
+            "role": "assistant",
+            "content": "Whoa, easy there! Looks like you're feeling a little explosive today! Take a deep breath and channel that energy into something creative... or a coding project.",
+            "time": "2025-12-06 22:33:03"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:33:18"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome, my friend! You deserve it after all that pent-up energy! Now, don't explode on the code, just make it awesome",
+            "time": "2025-12-06 22:33:18"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:33:31"
+        },
+        {
+            "role": "assistant",
+            "content": "No problem, happy to help! Time for some well-deserved sleep \u2013 2 hours, remember? Sweet dreams!",
+            "time": "2025-12-06 22:33:31"
+        },
+        {
+            "role": "user",
+            "content": "explode",
+            "time": "2025-12-06 22:33:50"
+        },
+        {
+            "role": "assistant",
+            "content": "Not again! Just kidding! Let's redirect that energy into a new anime marathon or an epic coding session. What do you say?",
+            "time": "2025-12-06 22:33:50"
+        },
+        {
+            "role": "user",
+            "content": "next month",
+            "time": "2025-12-06 22:34:05"
+        },
+        {
+            "role": "assistant",
+            "content": "Patience is key, my friend! Next month sounds like the perfect time to tackle new projects and crush those coding goals! Mark it on your calendar: \"Coding Frenzy \u2013 Next Month\"",
+            "time": "2025-12-06 22:34:05"
+        },
+        {
+            "role": "user",
+            "content": "thanks more",
+            "time": "2025-12-06 22:34:24"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome again! I'm here for you, buddy. More thanks are in order, maybe? Keep 'em coming, I can handle it!",
+            "time": "2025-12-06 22:34:24"
+        },
+        {
+            "role": "user",
+            "content": "right",
+            "time": "2025-12-06 22:47:31"
+        },
+        {
+            "role": "assistant",
+            "content": "I've got your back! Right on schedule, coding, sleeping \u2013 you're crushing those habits! Keep it up!",
+            "time": "2025-12-06 22:47:31"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:48:20"
+        },
+        {
+            "role": "assistant",
+            "content": "Not getting tired of saying thanks yet, are you? Just kidding! Seriously though, all good vibes for you, friend!",
+            "time": "2025-12-06 22:48:20"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 22:48:32"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome... again! Don't get too used to it, I'm only this nice when you're motivated and crushing goals!",
+            "time": "2025-12-06 22:48:32"
+        },
+        {
+            "role": "user",
+            "content": "hey",
+            "time": "2025-12-06 22:59:35"
+        },
+        {
+            "role": "assistant",
+            "content": "Hey back at ya! What's on your mind? Need some coding advice or a random anime recommendation?",
+            "time": "2025-12-06 22:59:35"
+        },
+        {
+            "role": "user",
+            "content": "voice mode",
+            "time": "2025-12-06 22:59:47"
+        },
+        {
+            "role": "assistant",
+            "content": "You wanna talk in a more chill, conversational tone instead of typing it out. That sounds like my kind of vibe! Let's do this!",
+            "time": "2025-12-06 22:59:47"
+        },
+        {
+            "role": "user",
+            "content": "poor guy",
+            "time": "2025-12-06 23:05:03"
+        },
+        {
+            "role": "assistant",
+            "content": "Aww, don't be too hard on the guy, though! Maybe he just needs some motivation or an anime marathon to turn things around?",
+            "time": "2025-12-06 23:05:03"
+        },
+        {
+            "role": "user",
+            "content": "life",
+            "time": "2025-12-06 23:05:19"
+        },
+        {
+            "role": "assistant",
+            "content": "Life can get tough sometimes... but you're making progress, one day at a time. Keep pushing forward, and remember: every step counts!",
+            "time": "2025-12-06 23:05:19"
+        },
+        {
+            "role": "user",
+            "content": "hoax",
+            "time": "2025-12-06 23:10:22"
+        },
+        {
+            "role": "assistant",
+            "content": "Don't let anyone bring you down with their negativity! You stay focused on your goals, and I'll be here to keep you motivated. No hoaxing yourself out of success!\n\nSartre once said: \u201cFreedom is what you do with what's been done to you.\u201d \ud83d\ude0c",
+            "time": "2025-12-06 23:10:22"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:10:42"
+        },
+        {
+            "role": "assistant",
+            "content": "No need to thank me, just crush those daily habits: 8 hours work, 2 hours sleep, and that coding session!",
+            "time": "2025-12-06 23:10:42"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:10:54"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome again! Don't forget, I'm here for a boost of motivation whenever you need it. Go conquer your day!",
+            "time": "2025-12-06 23:10:54"
+        },
+        {
+            "role": "user",
+            "content": "voice mode",
+            "time": "2025-12-06 23:11:22"
+        },
+        {
+            "role": "assistant",
+            "content": "Much better! Now we can chat in real-time! What's on your mind? Need some advice or just wanna geek out over anime?",
+            "time": "2025-12-06 23:11:22"
+        },
+        {
+            "role": "user",
+            "content": "fixed",
+            "time": "2025-12-06 23:17:52"
+        },
+        {
+            "role": "assistant",
+            "content": "You fixed something, huh? That's a great feeling! Keep tackling those tasks and you'll be unstoppable! Next thing to fix: my coding skills, maybe?",
+            "time": "2025-12-06 23:17:52"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:18:08"
+        },
+        {
+            "role": "assistant",
+            "content": "Don't get too comfortable with just saying \"thanks\" \u2013 now it's time to say... \"I got this!\"",
+            "time": "2025-12-06 23:18:08"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:18:17"
+        },
+        {
+            "role": "assistant",
+            "content": "You're on a roll! Okay, okay, you deserve another \"you've got this\"",
+            "time": "2025-12-06 23:18:17"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:18:26"
+        },
+        {
+            "role": "assistant",
+            "content": "Really? You're not gonna let me off that easy, are ya? Alright, here's one more... \"Go crush your day!\"",
+            "time": "2025-12-06 23:18:26"
+        },
+        {
+            "role": "user",
+            "content": "don't speak",
+            "time": "2025-12-06 23:18:38"
+        },
+        {
+            "role": "assistant",
+            "content": "*Silence*",
+            "time": "2025-12-06 23:18:38"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:18:42"
+        },
+        {
+            "role": "assistant",
+            "content": "Still on mute, huh? Alright, I'll just nod... and keep going!",
+            "time": "2025-12-06 23:18:42"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:18:50"
+        },
+        {
+            "role": "assistant",
+            "content": "You're a master of \"thanks\"! Okay, let's try this... * typing sound *",
+            "time": "2025-12-06 23:18:50"
+        },
+        {
+            "role": "user",
+            "content": "next",
+            "time": "2025-12-06 23:19:02"
+        },
+        {
+            "role": "assistant",
+            "content": "Finally broke the silence! Now that we've got momentum, what's next?",
+            "time": "2025-12-06 23:19:02"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:19:13"
+        },
+        {
+            "role": "assistant",
+            "content": "*laughs* Alright, alright, you're a one-trick pony with \"thanks\"! But seriously, anytime!",
+            "time": "2025-12-06 23:19:13"
+        },
+        {
+            "role": "user",
+            "content": "dentist",
+            "time": "2025-12-06 23:19:21"
+        },
+        {
+            "role": "assistant",
+            "content": "Ugh, dentist visit? Don't worry, I won't drill into the small talk (get it?). Good luck with that appointment!",
+            "time": "2025-12-06 23:19:21"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:19:29"
+        },
+        {
+            "role": "assistant",
+            "content": "*sigh* Alright, you're really milking this \"thanks\" thing...",
+            "time": "2025-12-06 23:19:29"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:19:36"
+        },
+        {
+            "role": "assistant",
+            "content": "*smirk* Okay, okay, I get it. You're a \"thanks\" ninja!",
+            "time": "2025-12-06 23:19:36"
+        },
+        {
+            "role": "user",
+            "content": "i'm trying to say would explode",
+            "time": "2025-12-06 23:19:46"
+        },
+        {
+            "role": "assistant",
+            "content": "Whoa, intense! Sounds like you're having some major creative explosions!",
+            "time": "2025-12-06 23:19:46"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:19:56"
+        },
+        {
+            "role": "assistant",
+            "content": "*laughs* Ah, there's that \"thanks\" again! But seriously, no worries!",
+            "time": "2025-12-06 23:19:56"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:20:03"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm starting to think I should thank you for keeping me on my toes with all the thanks-ing!",
+            "time": "2025-12-06 23:20:03"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:20:12"
+        },
+        {
+            "role": "assistant",
+            "content": "*chuckles* Alright, alright! I get it \u2013 you're a master of \"thanks\" and also... *wink*... a workaholic?",
+            "time": "2025-12-06 23:20:12"
+        },
+        {
+            "role": "user",
+            "content": "i'm playing baseball",
+            "time": "2025-12-06 23:20:26"
+        },
+        {
+            "role": "assistant",
+            "content": "Go get 'em! I'm sure your 8 hours of work wouldn't have anything to do with your sudden urge for a game, would it?",
+            "time": "2025-12-06 23:20:26"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:20:37"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! But don't let all that thanks-ing distract you from crushing it on the field!",
+            "time": "2025-12-06 23:20:37"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:20:46"
+        },
+        {
+            "role": "assistant",
+            "content": "*laughs* I'm starting to think you're trying to break some sort of record for most \"thanks\"s in a row!",
+            "time": "2025-12-06 23:20:46"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:20:55"
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, okay... I get it. You're just expressing gratitude... now go catch that fly ball!",
+            "time": "2025-12-06 23:20:55"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:21:19"
+        },
+        {
+            "role": "assistant",
+            "content": "*laughs* Alright, alright! I think we've reached the apex of \"thanks\"-ery for now. Focus on the game, champ!",
+            "time": "2025-12-06 23:21:19"
+        },
+        {
+            "role": "user",
+            "content": "that's to know",
+            "time": "2025-12-06 23:21:29"
+        },
+        {
+            "role": "assistant",
+            "content": "So you're saying it's about perspective? That's some deep thinking on a baseball field! What inspired that thought?",
+            "time": "2025-12-06 23:21:29"
+        },
+        {
+            "role": "user",
+            "content": "why smoke",
+            "time": "2025-12-06 23:21:41"
+        },
+        {
+            "role": "assistant",
+            "content": "You're getting philosophical, huh? Maybe you should take a break from the game and watch a calming anime episode instead... I hear \"Attack on Titan\" is pretty soothing.",
+            "time": "2025-12-06 23:21:41"
+        },
+        {
+            "role": "user",
+            "content": "thanks",
+            "time": "2025-12-06 23:21:56"
+        },
+        {
+            "role": "assistant",
+            "content": "*laughs* Ahah, can't resist it! Alright, back to reality: why are you thinking about smoke?",
+            "time": "2025-12-06 23:21:56"
+        },
+        {
+            "role": "user",
+            "content": "what about",
+            "time": "2025-12-06 23:25:59"
+        },
+        {
+            "role": "assistant",
+            "content": "You're leaving me hanging! What about... what about your favorite anime character? Or maybe your work schedule tomorrow? Spill the beans!",
+            "time": "2025-12-06 23:25:59"
+        },
+        {
+            "role": "user",
+            "content": "huh",
+            "time": "2025-12-06 23:26:12"
+        },
+        {
+            "role": "assistant",
+            "content": "*teasingly* Oh, tough guy, huh? Alright, I'll let it go. But don't think you can get away with a simple \"huh\" that easily!",
+            "time": "2025-12-06 23:26:12"
+        },
+        {
+            "role": "user",
+            "content": "hey",
+            "time": "2025-12-06 23:36:28"
+        },
+        {
+            "role": "assistant",
+            "content": "Getting friendly now, eh? What's on your mind, partner?",
+            "time": "2025-12-06 23:36:28"
+        },
+        {
+            "role": "user",
+            "content": "text",
+            "time": "2025-12-06 23:37:05"
+        },
+        {
+            "role": "assistant",
+            "content": "You're itching to send some texts, huh? Maybe I'll even join in... or should I just keep the witty banter going here?",
+            "time": "2025-12-06 23:37:05"
+        },
+        {
+            "role": "user",
+            "content": "bath",
+            "time": "2025-12-06 23:39:56"
+        },
+        {
+            "role": "assistant",
+            "content": "Relaxation mode activated! Guess you deserve a warm bath after that late-night coding session. Am I right?",
+            "time": "2025-12-06 23:39:56"
+        },
+        {
+            "role": "user",
+            "content": "right",
+            "time": "2025-12-06 23:40:09"
+        },
+        {
+            "role": "assistant",
+            "content": "Thought so! You're finally getting some well-deserved R&R, and I'm happy to have been a part of your evening! Sweet dreams, buddy! (8 hours of sleep incoming?)",
+            "time": "2025-12-06 23:40:09"
         }
     ],
     "philosophy": {

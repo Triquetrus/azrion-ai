@@ -7,6 +7,7 @@ import json
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
 from azrion import azrion_chat,say,get_ai_greeting
+import subprocess
 
 def main():
     # Same greeting as text client
@@ -17,8 +18,6 @@ def main():
     say("Hey Triquetrus!")
     say(greeting)
 
-    print("\nAzrion voice is listening. Say something; Ctrl+C to stop.\n")
-
     # Load Vosk model ...
     model = Model("models/en_us_small")
 
@@ -28,7 +27,8 @@ def main():
 
     def callback(indata, frames, time_, status):
         if status:
-            print(status, file=sys.stderr)
+            pass
+            #print(status, file=sys.stderr)
         q.put(bytes(indata))
 
     with sd.RawInputStream(samplerate=samplerate,
@@ -60,13 +60,12 @@ def main():
                         break  # leave the while loop
 
                     reply = azrion_chat(text)
-                    print(f"Azrion: {reply}")
+                    #print(f"Azrion: {reply}")
                     say(reply)
             else:
                 # ignore partials for now
                 pass
-
-print("Azrion voice: session ended.") 
+    print("Azrion voice: session ended.") 
 
 if __name__ == "__main__":
     main()
