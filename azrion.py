@@ -304,7 +304,21 @@ def say(text):
     except FileNotFoundError:
         subprocess.run(["aplay", wav_path], check=False)
 
-
+def run_detached_command(cmd_list):
+    """
+    Run a system command detached from Azrion (so apps stay open after exit).
+    No output is captured.
+    """
+    try:
+        subprocess.Popen(
+            cmd_list,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            start_new_session=True,
+        )
+        return "Command started."
+    except Exception as e:
+        return f"Command failed: {e}"
 
 def run_sys_command(cmd_list):
     """
@@ -342,36 +356,34 @@ def system_action(user_input):
 
     # --- Open common apps ---
     if "open browser" in text or "open firefox" in text:
-        run_sys_command(["firefox"])
+        run_detached_command(["firefox"])
         return "Opening your browser 🔥"
 
     if "open code" in text or "open vscode" in text or "open vs code" in text:
-        # Change 'code' to your editor command if different
-        run_sys_command(["code"])
+        run_detached_command(["code"])
         return "Launching VS Code 😎"
 
     if "open files" in text or "open file manager" in text or "open dolphin" in text:
-        run_sys_command(["dolphin"])
+        run_detached_command(["dolphin"])
         return "Opening your file manager 😌"
 
-    # --- Open websites in FireDragon ---
     if "open youtube" in text or ("youtube" in text and "open" in text):
-        run_sys_command(["firedragon", "--new-window", "https://www.youtube.com"])
+        run_detached_command(["firedragon", "--new-window", "https://www.youtube.com"])
         return "Opening YouTube 👀"
 
     if "open google" in text:
-        run_sys_command(["firedragon", "--new-window", "https://www.google.com"])
+        run_detached_command(["firedragon", "--new-window", "https://www.google.com"])
         return "Opening Google for you 😌"
 
     if "open github" in text:
-        run_sys_command(["firedragon", "--new-window", "https://github.com"])
+        run_detached_command(["firedragon", "--new-window", "https://github.com"])
         return "Opening GitHub 😎"
 
     # Generic open URL: "open: https://example.com"
     if text.startswith("open:"):
         url = user_input[5:].strip()
         if url:
-            run_sys_command(["firedragon", "--new-window", url])
+            run_detached_command(["firedragon", "--new-window", url])
             return f"Opening {url} 🔥"
 
 
@@ -382,7 +394,7 @@ def system_action(user_input):
         if not query:
             return "What do you want me to search on Google?"
         url = "https://www.google.com/search?q=" + urllib.parse.quote(query)
-        run_sys_command(["firedragon", "--new-window", url])
+        run_detached_command(["firedragon", "--new-window", url])
         return f"Searching Google for \"{query}\" 🔍"
 
     if text.startswith("search youtube for "):
@@ -391,7 +403,7 @@ def system_action(user_input):
         if not query:
             return "What do you want me to search on YouTube?"
         url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote(query)
-        run_sys_command(["firedragon", "--new-window", url])
+        run_detached_command(["firedragon", "--new-window", url])
         return f"Searching YouTube for \"{query}\" 🎵"
 
 
